@@ -1,3 +1,4 @@
 F3 firstline
 F3 secondline
-F3 Thirdline, -> modification in master, we're in trouble now!
+F3 Thirdline,conflict resolved in master branch.
+F3 Fourth line
