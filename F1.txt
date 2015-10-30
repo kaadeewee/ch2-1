@@ -1,3 +1,0 @@
-F1 firstline
-F1 secondline
-F3 third line
